@@ -2,4 +2,4 @@
 
 DEMO VERCEL https://game-pairs.vercel.app/
 
-without mobile version
+JS game without mobile version
